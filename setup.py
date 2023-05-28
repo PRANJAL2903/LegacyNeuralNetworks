@@ -5,7 +5,7 @@ DESCRIPTION = 'Legacy Neural Networks'
  
 # Setting up
 setup(
-    name="LegacyNeuralNetworks",
+    name="Pranjal",
     version=VERSION,
     author="Hrushikesh Kachgunde",
     author_email="<hrushiskachgunde@gmail.com>",
